@@ -1,3 +1,4 @@
+# Janell Baxter
 ## Examples
 * [WPF Navigation](https://github.com/janellbaxter/WPF-Navigation) A WPF example of using a frame that loads in different pages of content.
 * [WPF Historical Figures Inheritance Example](https://github.com/janellbaxter/HistoricalFigures-InheritanceExample) An example of child classes inheriting from a base class in WPF
